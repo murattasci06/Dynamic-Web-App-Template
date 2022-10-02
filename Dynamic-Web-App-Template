@@ -398,7 +398,7 @@ function bodyOnload() {
 </head>
  
 <header id="showcase">
-    <h1>Welcome to the App</h1>
+    <h1>Dynamic Web App</h1>
 </header>
 
 
